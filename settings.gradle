@@ -1,0 +1,2 @@
+rootProject.name='Mapas2020'
+include ':app'
